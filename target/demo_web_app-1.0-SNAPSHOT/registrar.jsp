@@ -31,7 +31,7 @@
         </tr>
         <tr>
             <td>Precio:</td>
-            <td><input type="number" name="precio"/></td>
+            <td><input type="text" name="precio"/></td>
         </tr>
 
     </table>
