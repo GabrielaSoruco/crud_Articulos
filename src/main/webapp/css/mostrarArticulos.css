@@ -2,8 +2,17 @@
 
 body {
     font-family: 'Work Sans', sans-serif;
+    background: #fff url(../img/fondoListaC.png) repeat centeR;
 }
 
 .navbar-brand h2 {
     color: #650C2C;
+}
+
+.btn-outline-success:hover {
+    background-color: #118D67;
+}
+
+.footer-social:hover {
+    color: #000;
 }
